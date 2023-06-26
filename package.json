@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon app.js",
+    "build": "node ap.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
